@@ -39,9 +39,11 @@ INSERT INTO exercise (detail, video_url) VALUES
 ('Sit-up', 'https://example.com/situp'),
 ('Squat', 'https://example.com/squat'),
 ('Lunges', 'https://example.com/lunges'),
-('Plank', 'https://example.com/plank');```
-<img src="![./capturas/sentence01.png](<CAPTURAS /Captura de pantalla 2024-08-06 a la(s) 6.47.48 p. m..png>)" alt="drawing" width="500"/>
+('Plank', 'https://example.com/plank');
 ```
+
+```
+
 INSERT INTO routine (description, disclaimer, sex) VALUES 
 ('Morning Routine', 'Consult a doctor before starting', 'M'),
 ('Evening Routine', 'For experienced athletes', 'F'),
