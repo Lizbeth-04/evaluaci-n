@@ -1,5 +1,5 @@
 1.creacion de la oriemra tabla llamda routine.
-<img src="![/Users/lizbethencalada/Desktop/EXAMEN/CAPTURAS /Captura de pantalla 2024-08-06 a la(s) 7.05.58 p. m..png](<CAPTURAS /Captura de pantalla 2024-08-06 a la(s) 7.05.58 p. m..png>)" alt="drawing" width="500"/>
+
 ```CREATE TABLE routine (
     id SERIAL PRIMARY KEY,
     description TEXT NOT NULL,
