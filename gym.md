@@ -6,7 +6,8 @@ CREATE TABLE routine (
     description TEXT NOT NULL,
     disclaimer TEXT,
     sex CHAR(1) NOT NULL
-);```
+);
+```
 llenamos los datos de las tablas :
 2.creacion de la segunda tabla 
 
